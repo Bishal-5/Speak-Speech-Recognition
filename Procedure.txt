@@ -1,9 +1,0 @@
-For run this python code we need some requirements...
-1. First we install Python App (Interpreter) for run python code.
-2. Then we install a code editor (VS code) and in VS code we install a extension (Python) for execute or run the python file.
-3. We need to install some Library Function or Module. Open Command Prompt or Windows Terminal either we can use VS code terminal for same.
-	a. Install pyttsx3. [Type this in terminal "pip install pyttsx3"]
-	b. Install speech_recognition. ["pip install SpeechRecognition"]
-	c. If use external microphone Install Microphone.
-4. Now this code is working very well.
-       
